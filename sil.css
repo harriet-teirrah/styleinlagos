@@ -1,0 +1,28 @@
+.navbar{
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+  background-color: pink;
+  font-family: roboto condensed;
+  font-color: black;
+  border-radius: 0px;
+  box-sizing: border-box;
+  position: relative;
+  height: 100px;
+}
+.row{
+  background-color:black;
+  color:white;
+  box-sizing: border-box;
+  position: relative;
+  text-align: center;
+}
+.container{
+  padding-top: 100px;
+  padding-left: 300px;
+
+}
+.col-sm-9 col-md-6{
+  background-color: pink;
+}
